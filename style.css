@@ -26,7 +26,7 @@ img{
 ul{
     list-style-type: none;
     border: 2px solid black;
-    padding: 5px;
+    padding: 10px;
     margin: 10px;
     border-radius: 5px;
     background-color:rgb(131, 131, 175) 
@@ -43,7 +43,7 @@ body{
 p{
     text-align: center;
     text-transform:capitalize;
-    font-family:'Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif';
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 23px;
 
 }
