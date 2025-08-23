@@ -39,9 +39,7 @@ body{
 }
 p{
     text-align: center;
-    text-indent: 50px;
     text-transform:capitalize;
-    text-align-last: justify;
     font-family:'Courier New', Courier, monospace;
     background-color:rgb(131, 131, 175);
     font-size: 23px;
