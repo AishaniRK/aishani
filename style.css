@@ -29,7 +29,8 @@ ul{
     padding: 5px;
     margin: 5px;
     border-radius: 5px;
-    background-color:rgb(131, 131, 175) 
+    background-color:rgb(131, 131, 175);
+    display:inline-block;
 }
 
 
