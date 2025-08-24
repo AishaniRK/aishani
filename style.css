@@ -45,17 +45,3 @@ body{
     align-items:center;
     display: flex;
 }
-p{
-    text-align: center;
-    text-transform:capitalize;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 22px;
-    background-color:rgb(131, 131, 175);
-    border:1px solid black;
-     text-align:center;
-    margin-bottom:10px;
-     margin: 10px 0;
-    padding: 6px 0;
-    
-
-}
