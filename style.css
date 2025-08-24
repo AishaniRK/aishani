@@ -23,15 +23,13 @@ img{
     align-items: center;
     border: 2px solid black;
 }
-ul{
-    list-style-type: none;
-    
-   
-    
-}
+
 div{
     border:1px solid black;
-    padding: 1 rem;
+    padding: 12px;
+    margin: 10px 0;
+    font-size:18px;
+    text-align:left;
     margin-bottom:10px;
      background-color:rgb(131, 131, 175);
 }
@@ -43,6 +41,9 @@ body{
     background-image:url("white.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    justify-content: center;
+    align-items:center;
+    display: flex;
 }
 p{
     text-align: center;
